@@ -10,7 +10,6 @@ Soy estudiante de último año de Ingeniería De Software 🎓 en la Universidad
 ### Más sobre mí:
 
 - 👨💻 Actualmente trabajando, aprendiendo y ampliando mis habilidades en deep learning, programación competitiva, estructuras de datos y algoritmos.
-- 🤝 Abierto a colaboraciones en desarrollo web 🕸️
 - 💻 &nbsp; Abierto a colaboraciones en desarrollo web 🕸️
 - 🌐 Visita mi  [Sitio Web Personal](https://acklines.xyz) para información completa y contacto.
 - 📝 &nbsp; Consulta mi [Curriculum](https://acklinez.xyz/Resume.pdf).
