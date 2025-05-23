@@ -109,4 +109,4 @@ Soy estudiante de último año de Ingeniería De Software 🎓 en la Universidad
 
 </div>
 
-Última Edición: 30/03/2025
+Última Edición: 23/05/2025
