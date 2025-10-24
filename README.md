@@ -36,9 +36,15 @@ Soy estudiante de último año de Ingeniería De Software 🎓 en la Universidad
 <a href="https://developer.android.com/studio" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AndroidStudio-Dark.svg" alt="android studio" width="50" height="50"/> </a>
 <a href="https://www.swift.org/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Swift.svg" alt="swift" width="50" height="50"/> </a>
 <a href="https://developer.apple.com/xcode/" target="_blank"> <img src="https://developer.apple.com/assets/elements/icons/xcode-12/xcode-12-96x96_2x.png" alt="xcode" width="50" height="50"/> </a>
- <a href="https://aws.amazon.com/" target="_blank">
+<a href="https://aws.amazon.com/" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Dark.svg" alt="AWS" width="40" height="40"/>
-  </a>
+</a>
+<a href="https://nestjs.com/" target="_blank">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NestJS-Dark.svg" alt="NestJS" width="40" height="40"/>
+</a>
+<a href="https://www.docker.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker" width="40" height="40"/>
+</a>
 
 
 <details>	
@@ -74,6 +80,9 @@ Soy estudiante de último año de Ingeniería De Software 🎓 en la Universidad
 <a href="https://www.php.net" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/2/27/PHP-logo.svg" alt="php" width="40" height="40"/> </a>
 <a href="https://dotnet.microsoft.com/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/CS.svg" alt="c#" width="40" height="40"/> </a>
 <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/4/4c/Typescript_logo_2020.svg" alt="typescript" width="40" height="40"/> </a>
+<a href="https://nestjs.com/" target="_blank">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NestJS-Dark.svg" alt="NestJS" width="40" height="40"/>
+</a>
 
 
 <details>	
@@ -86,19 +95,25 @@ Soy estudiante de último año de Ingeniería De Software 🎓 en la Universidad
   <summary><b>Frameworks</b></summary>
    <a href="https://laravel.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/9/9a/Laravel.svg" alt="laravel" width="40" height="40"/> </a>
 <a href="https://adonisjs.com/" target="_blank"> <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/Adonis.svg" alt="adonis js" width="40" height="40"/> </a>
+<a href="https://nestjs.com/" target="_blank">
+    <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/NestJS-Dark.svg" alt="NestJS" width="40" height="40"/>
+</a>
 </details>
 
 <details>	
   <summary><b>Backend as a Service (BaaS) </b></summary>
     <a href="https://aws.amazon.com/" target="_blank">
     <img src="https://github.com/tandpfun/skill-icons/raw/main/icons/AWS-Dark.svg" alt="AWS" width="40" height="40"/>
-  </a>
+</a>
   </details>
 
 <details>	
   <summary><b>Others</b></summary>
   <a href="https://git-scm.com/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/3f/Git_icon.svg" alt="git" width="40" height="40"/> </a>
 <a href="https://www.linux.org/" target="_blank"> <img src="https://upload.wikimedia.org/wikipedia/commons/3/35/Tux.svg" alt="linux" width="40" height="40"/> </a>
+<a href="https://www.docker.com/" target="_blank">
+    <img src="https://upload.wikimedia.org/wikipedia/commons/4/4e/Docker_%28container_engine%29_logo.svg" alt="Docker" width="40" height="40"/>
+</a>
 </details>
 
 
@@ -109,4 +124,4 @@ Soy estudiante de último año de Ingeniería De Software 🎓 en la Universidad
 
 </div>
 
-Última Edición: 23/05/2025
+Última Edición: 24/10/2025
